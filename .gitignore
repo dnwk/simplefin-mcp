@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# Secrets - NEVER commit these.
+# The Access URL embeds your bank's Basic Auth credentials.
+access_url.txt
+token.txt
+*.token
+
+# Local experiment output / personal financial data
+*_out.txt
+*_log.txt
+tx_*.json
+holdings_*.json
+nov*.json
+report.json
+.env
