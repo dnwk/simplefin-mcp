@@ -13,7 +13,6 @@ single credential — the SimpleFIN Access URL.
 > is possible through the protocol. Your AI assistant can *look* at your money but
 > never *move* it.
 
-[![Packaged with uv](https://img.shields.io/badge/packaged%20with-uv-0.12.5-blue)](https://docs.astral.sh/uv/)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
